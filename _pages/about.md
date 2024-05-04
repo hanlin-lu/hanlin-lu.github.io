@@ -1,4 +1,4 @@
-**About Me**
+About Me
 
 I'm a Research scientist at ByteDance Inc, working on Foundation Model, Vision and Language. I received my PhD in Computer Science from [Penn State University](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx), and my bachelor in Mathematics from [Beihang University](https://www.buaa.edu.cn/). 
 
