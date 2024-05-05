@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Research scientist at ByteDance Inc, working on Foundation Model, Vision and Language. I received my PhD in Computer Science from [Penn State University](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx), and my bachelor in Mathematics from [Beihang University](https://www.buaa.edu.cn/). 
+Hello! I'm a Research Scientist at ByteDance Inc, working on Foundation Model, Vision and Language, in [Dr. Heng Wang](https://hengcv.github.io/code/)'s team. In 2021, I received my PhD in Computer Science from [Penn State University](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx), advised by [Prof. Ting He](https://nsrg.cse.psu.edu/members/ting-he/). Before that, I received my bachelor in Mathematics from [Beihang University](https://www.buaa.edu.cn/) in 2017. During 2019 summer and 2020 summer, I interned at IBM T. J. Watson Research Center, mentored by [Dr. Shiqiang Wang](https://shiqiang.wang/) and Dr. Changchang Liu. 
 
 My research interests are mostly centered on Machine Learning, Deep Learning, model training infrastructure and Computer Vision, with a focus on Large Language Model and Text-to-Image Diffusion Model in recent 2 years. 
+
+Please send me an email if we share common interests. 
