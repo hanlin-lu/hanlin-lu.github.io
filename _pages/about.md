@@ -11,4 +11,4 @@ Hello! I'm a Research Scientist at ByteDance Inc, working on Foundation Model, V
 
 My research interests are mostly centered on Machine Learning, Deep Learning, DL Training Infrastructure and Computer Vision, with a focus on Large Language Model and Text-to-Image Diffusion Model in the recent 2 years. 
 
-Please feel free to send me an [email](hll.cs1995@gmail.com) if we share common interests. 
+Please feel free to send me an [email](mailto:hll.cs1995@gmail.com) if we share common interests. 
