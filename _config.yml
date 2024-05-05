@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hanlin Lu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hanlin Lu"
 description              : &description "personal description"
 url                      : https://hanlin-lu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
