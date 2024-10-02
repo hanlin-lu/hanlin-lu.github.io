@@ -19,6 +19,8 @@ author_profile: true
 
 You can also find my full-list publications on [my Google Scholar profile](https://scholar.google.com/citations?user=UbWokRoAAAAJ&hl=en). 
 
+(11) SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training. Accepted to Neural Information Processing Systems, 2024. 
+
 (10) Wang, Yite, Jiahao Su, **Hanlin Lu**, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, and Hongxia Yang. "[LEMON: Lossless model expansion.](https://openreview.net/forum?id=3Vw7DQqq7U)" In The Twelfth International Conference on Learning Representations. 2023.
 
 
